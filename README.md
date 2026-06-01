@@ -105,3 +105,4 @@ A Modern Shopping App UI/UX Prototype
 ---
 
 > Designed and developed as part of a Final Year Project to explore and demonstrate modern mobile app UI/UX best practices.
+# FINAL_YEAR
